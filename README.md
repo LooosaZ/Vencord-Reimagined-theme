@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/LooosaZ/Vencord-Reimagined-theme/main/main/ven
 
 ## Check the themes I was inspired by!
 [midnight](https://github.com/refact0r/midnight-discord)
+
 [vencord-theme](https://github.com/nanoqoi/vencord-theme)
 
 ## There's a bug!
