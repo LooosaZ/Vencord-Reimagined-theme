@@ -3,7 +3,7 @@
  * @description A theme that mixes acpects from midnight by refact0r and vencord-theme by nanoqoi
  * @author LoosaZ
  * @version 1.6.6
- * @source 
+ * @source https://github.com/LooosaZ/Vencord-Reimagined-theme
  * @authorId 310099824777232394
 */
 
@@ -83,15 +83,3 @@ https://github.com/nanoqoi/vencord-theme
 	--green-to-accent-3-filter: hue-rotate(56deg) saturate(1.43); /* add friend page explore icon */
 	--blurple-to-accent-3-filter: hue-rotate(304deg) saturate(0.84) brightness(1.2); /* add friend page school icon */
 }
-
-[class*=channelAppLauncher_] {
-	display: none;
-  }
-  
-  [class^=botTagCompact], /* reorder tegs in replies */
-  [class^=repliedTextPreview], /* reorder message in replies */
-  [class^=repliedTextContentTrailingIcon] /* reorder icon that can come after the message in replies */
-  {
-	  order: 1 !important; /* default order is 0 so putting it to 1 put it after */
-  }
-  
