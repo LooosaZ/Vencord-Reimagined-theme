@@ -6,7 +6,7 @@ A theme that mixes acpects from midnight by refact0r and vencord-theme by nanoqo
 2. Navigate to `Vencord` -> `Themes` -> `Online Themes`
 3. Paste this link into the box labelled `ONLINE THEMES`:
 ```
-https://raw.githubusercontent.com/LooosaZ/loosaz-theme/main/vencord-reimagined.css
+https://raw.githubusercontent.com/LooosaZ/Vencord-Reimagined-theme/main/main/vencord-reimagined.css
 ```
 
 ## Check the themes I was inspired by!
@@ -14,4 +14,4 @@ https://raw.githubusercontent.com/LooosaZ/loosaz-theme/main/vencord-reimagined.c
 [vencord-theme]https://github.com/nanoqoi/vencord-theme
 
 ## There's a bug!
-Report any CSS bugs in the [Issues tab](https://github.com/LooosaZ/loosaz-theme/issues).
+Report any CSS bugs in the [Issues tab](https://github.com/LooosaZ/Vencord-Reimagined-theme/issues).
