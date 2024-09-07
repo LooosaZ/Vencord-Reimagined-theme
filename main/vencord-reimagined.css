@@ -31,7 +31,7 @@ https://github.com/nanoqoi/vencord-theme
 	--streaming-indicator: hsl(260, 60%, 60%); /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: #4392fa; /* links */
+	--accent-1: #ff7945; /* links */
 	--accent-2: hsl(12, 85%, 34%); /* general unread/mention elements */
 	--accent-3: #ff7945; /* accent buttons */
 	--accent-4: #ff7945; /* accent buttons when hovered */
