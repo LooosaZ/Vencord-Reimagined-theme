@@ -31,11 +31,11 @@ https://github.com/nanoqoi/vencord-theme
 	--streaming-indicator: hsl(260, 60%, 60%); /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: #ff7945; /* links */
+	--accent-1: #a15cc9; /* links */
 	--accent-2: hsl(12, 85%, 34%); /* general unread/mention elements */
-	--accent-3: #ff7945; /* accent buttons */
-	--accent-4: #ff7945; /* accent buttons when hovered */
-	--accent-5: #ff7945; /* accent buttons when clicked */
+	--accent-3: #a15cc9; /* accent buttons */
+	--accent-4: #a15cc9; /* accent buttons when hovered */
+	--accent-5: #a15cc9; /* accent buttons when clicked */
 	--mention: hsla(34, 74%, 37%, 0.1); /* mentions & mention messages */
 	--mention-hover: hsla(34, 72%, 46%, 0.1); /* mentions & mention messages when hovered */
 
@@ -44,7 +44,7 @@ https://github.com/nanoqoi/vencord-theme
 	--text-1: var(--text-2); /* other normally white text */
 	--text-2: #282828; /* headings and important text */
 	--text-3: #6e655d; /* normal text */
-	--text-4: #504944; /* icon buttons and channels */
+	--text-4: #645143; /* icon buttons and channels */
 	--text-5: #918274; /* muted channels/chats and timestamps */
 
 	/* background and dark colors */
